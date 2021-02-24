@@ -1,10 +1,1 @@
- Volume in drive E has no label.
- Volume Serial Number is 30FC-04AC
-
- Directory of E:\GitCICDProject
-
-24-02-2021  22:55    <DIR>          .
-24-02-2021  22:55    <DIR>          ..
-24-02-2021  22:55                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   2,805,723,136 bytes free
+change 1
